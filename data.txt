@@ -1,0 +1,3 @@
+Alice,16,Keine
+Bob,12,Einbruch,Versuchte Erpressung
+Charlie,21,Geschwindigkeitsbegrenzungsüberschreitung
