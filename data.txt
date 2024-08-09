@@ -1,3 +1,5 @@
-Alice,16,Keine
-Bob,12,Einbruch,Versuchte Erpressung
-Charlie,21,Geschwindigkeitsbegrenzungsüberschreitung
+Jason,18,Diebstahl,Körperverletzung,Nächtliche Ruhestörung,Drohungen
+Jonas,24,Ransomwareattacke auf kritische Infrastruktur
+Hildegard,87,schwere Körperverletzung,versuchter Todschlag
+Nina,20,Keine
+Mareike,43,Hausfriedensbruch
